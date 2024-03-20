@@ -1,0 +1,3 @@
+#!/bin/sh
+mkdir  buffer/ enc/ zabbix_agentd.d/
+chown -R 1997:1995 buffer/ enc/ zabbix_agentd.d/
